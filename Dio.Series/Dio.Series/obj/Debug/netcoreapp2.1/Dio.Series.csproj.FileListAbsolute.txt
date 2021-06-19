@@ -1,0 +1,11 @@
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\obj\Debug\netcoreapp2.1\Dio.Series.csprojAssemblyReference.cache
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\obj\Debug\netcoreapp2.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\obj\Debug\netcoreapp2.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\obj\Debug\netcoreapp2.1\Dio.Series.AssemblyInfo.cs
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\bin\Debug\netcoreapp2.1\Dio.Series.deps.json
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\bin\Debug\netcoreapp2.1\Dio.Series.runtimeconfig.json
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\bin\Debug\netcoreapp2.1\Dio.Series.runtimeconfig.dev.json
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\bin\Debug\netcoreapp2.1\Dio.Series.dll
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\bin\Debug\netcoreapp2.1\Dio.Series.pdb
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\obj\Debug\netcoreapp2.1\Dio.Series.dll
+C:\Users\Clayton\Desktop\SRV_System_Clay\Documentos\DIO\Dio.Series\Dio.Series\obj\Debug\netcoreapp2.1\Dio.Series.pdb
